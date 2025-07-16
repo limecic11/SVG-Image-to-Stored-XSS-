@@ -29,4 +29,4 @@ Although the bug was marked as a **duplicate**, this write-up shares the full di
 
 ## 💥 Proof of Concept (POC)
 
-![XSS Screenshot](XSS-PoC.png)
+![XSS Screenshot](XSS-PoC.jpg)
